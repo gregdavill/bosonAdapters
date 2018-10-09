@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name BosonAdapters)(type KiCad)(uri "$(KIPRJMOD)/../common/BosonAdapters.pretty")(options "")(descr ""))
+)
